@@ -8,9 +8,13 @@ echo value of a is ${a}dollars
 
 #special variables for inputs
 #special variables used for inputs are $0 to $n , $*, $#
+#gives name of .sh file
 echo $0
+#gives first argument
 echo $1
+#gives all arguments
 echo $*
+#gives total no of arguments
 echo $#
 
 
