@@ -1,3 +1,3 @@
 echo keerthi
-exit
+exit 1
 echo mde
